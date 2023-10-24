@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm GAY</h1>
-<h3 align="center">FUCK</h3>
+<h1 align="center">Hello World! </h1>
+<h3 align="center">BoHyeonSong_github</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bohyeonsong&label=Profile%20views&color=0e75b6&style=flat" alt="bohyeonsong" /> </p>
 
